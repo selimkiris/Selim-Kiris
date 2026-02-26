@@ -1,7 +1,7 @@
 # Hi there, I'm Selim Kırış 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Engineering%20Student-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Computer%20Engineering%20Student-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=for-the-badge">
 </p>
 
@@ -17,7 +17,7 @@ Currently working as a **Remote Operations Specialist** for a US-based firm, whe
 
 ---
 
-### 🚀 Featured Project: [Tespit Sözlük](https://github.com/selimkiris/tespit-sozluk)
+### 🚀 Featured Project: **Tespit Sözlük**
 A community-driven dynamic platform inspired by "Ekşi Sözlük".
 - **Full-Stack Lifecycle:** Architecting the entire project from database design to user interface.
 - **Tech Stack:** Built with **ASP.NET Core**, **React**, and **PostgreSQL**.
