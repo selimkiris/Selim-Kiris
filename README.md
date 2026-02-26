@@ -1,4 +1,4 @@
-# Hi, I'm Selim Kırış
+# <p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi,+I'm+Selim+Kırış;Computer+Engineering+student;Full-Stack+.NET+Developer" alt="Typing SVG" /></p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Computer%20Engineering%20Student-red?style=for-the-badge">
