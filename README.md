@@ -10,7 +10,7 @@ I am a senior Computer Engineering student at **Süleyman Demirel University**. 
 - **Creative Pursuit:** Exploring game mechanics and interactive environments using **Unity & C#**.
  
 ### Current Project
-  I am currently developing a **"Next-Gen Dictionary"** project (a refined platform inspired by Ekşi Sözlük).
+  I am currently developing a **"Tespit Sözlük"** project (a refined platform inspired by Ekşi Sözlük).
 - **Goal:** To go live by June 2026 and provide a functional, community-driven platform.
 - **Tech Stack:** ASP.NET Core, React, and PostgreSQL.
  
