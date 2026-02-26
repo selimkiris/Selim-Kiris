@@ -51,10 +51,6 @@ I believe engineering is more than just code; it's about leading people and mana
 
 ---
 
-### 📊 GitHub Statistics
-![Selim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=selimkiris&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selimkiris&layout=compact&theme=radical&hide_border=true)
-
 ### 📫 Let's Connect!
 <p align="left">
   <a href="https://linkedin.com/in/selimkiris">
